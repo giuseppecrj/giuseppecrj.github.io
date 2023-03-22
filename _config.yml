@@ -1,0 +1,10 @@
+title: Giuseppe Rodriguez
+description: Personal website for Giuseppe Rodriguez
+url: "https://giuseppecrj.com"
+twitter: giuseppecrj
+
+baseurl: ""
+permalink: /:categories/:title:output_ext
+markdown: kramdown
+plugins:
+  - jekyll-feed
